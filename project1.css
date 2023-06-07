@@ -1,0 +1,41 @@
+.container{
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:2px solid rgb(29, 28, 28);
+    display: inline-block;
+    padding-top: 50px ;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 424px;
+    margin-top: 204px;
+    background-color: burlywood;
+}
+.color{
+    background-color: brown;
+    padding-bottom: 150px;
+}
+
+
+
+
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+.joke{
+font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+#jokeBtn{
+    background-color: rgb(198,85,85);
+  font-style: italic;
+    border-radius: 12px;
+    border: 1px solid white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 119px;
+}
+#jokeBtn:hover{
+    background-color:rgb(255, 77, 0);
+    
+  
+}
